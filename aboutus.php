@@ -56,7 +56,7 @@ if(isset($_POST["submitButton"]))
        <!-- end of navigation bar -->
      <main class="p-5 md-4 bg-light round-0">
         <h1>About us</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque iure obcaecati at eum itaque illo maxime alias impedit id? Consequuntur?</p>
+        <p>Lorem  dolor sit amet consectetur adipisicing elit. Doloremque iure obcaecati at eum itaque illo maxime alias impedit id? Consequuntur?</p>
         
     </main>
   <div class="container">
