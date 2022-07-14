@@ -58,12 +58,14 @@ if(isset($_POST["submitButton"]))
      </main>
      <p class="text-center">looking for a place to kickstart your career in technology? <br> Whether you are a local, 
      new in town or just crushing through, we have got ;loads of great tips and events for you .</p>
-     
+      <div class="card">
         <div class="container shadow">
+           
             <h1 class="text-center"><b>Sign up today?</b></h1>
             <form action="enroll.php" method="POST">
             <div class="row">
                 <div class="mb-3 col-lg-6">
+                    
                 <label for="fullName" class="form-label"><b>Full name</b></label>
                     <input type="text" name="fullname" class="form-control" placeholder="Enter first name">
                 </div>
@@ -125,29 +127,13 @@ if(isset($_POST["submitButton"]))
                   </div>
             </form>
 
-
+            
+        </div>
         </div>
         <br>
 </div>
 <br>
-  <p class="text-center">Subscribe to get latest information, latest news about  <br> zalego</p>
-    <div class="container">
-     <div class= "row">
-        <div class="col-lg-6">
-            <input type="text" class="form-control" placeholder= "enter email address">
-            <button class="btn btn-primary">subscribe</button>
-           
-        </div>
-        
-
-      </div>   
-            
-            
-
-        
-        
-
-     </div>
+ 
        
 <footer>
     <hr>
