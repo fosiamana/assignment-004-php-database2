@@ -21,8 +21,8 @@
                 <div class="collapse navbar-collapse" id="navbarDisplayNavigations">
                     <div class="navbar-nav">
                         <a href="#" class="nav-link active">Home</a>
-                        <a href="aboutus.html" class="nav-link">ABOUT US</a>
-                        <a href="#" class="nav-link">CONTACT US</a>
+                        <a href="aboutus.php" class="nav-link">ABOUT US</a>
+                        <a href="enrol.php" class="nav-link">CONTACT US</a>
                     </div>
                 </div>
         

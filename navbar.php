@@ -6,8 +6,8 @@
              </button>
                 <div class="collapse navbar-collapse" id="navbarDisplayNavigations">
                     <div class="navbar-nav">
-                        <a href="index.html" class="nav-link active">Home</a>
-                        <a href="#" class="nav-link">ABOUT US</a>
+                        <a href="index.php" class="nav-link active">Home</a>
+                        <a href="aboutus.php" class="nav-link">ABOUT US</a>
                         <a href="#" class="nav-link"><button class="btn btn-primary">Register now</button></a>
                     </div>
                 </div>
